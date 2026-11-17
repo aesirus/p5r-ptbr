@@ -15,18 +15,16 @@
 
 ## Mundo e história
 
-|EN|PT-BR|Nota|
-|-|-|-|
-|Phantom Thieves|Ladrões-Fantasma|oficial (Tactica)|
-|Phantom Thieves of Hearts|Ladrões-Fantasma de Corações|minha decisão|
-|Phantom Thief|Ladrão-Fantasma||
+| EN | PT-BR | Nota |
+| :--- | :--- | :--- |
+| Phantom Thieves | Ladrões-Fantasma | oficial (Tactica) |
+| Phantom Thieves of Hearts | Ladrões-Fantasma de Corações | adaptação do projeto |
+| Phantom Thief | Ladrão-Fantasma | |
 
+**Regra de maiúscula:** segue o inglês. "Phantom Thieves" (o grupo) → "Ladrões-Fantasma"; "phantom thieves"/"a phantom thief" (genérico, minúsculo no EN) → "ladrões-fantasma"/"ladrão-fantasma"; no início de frase, "Ladrões-fantasma".
 
-
-**Regra de maiúscula (13/11):** segue o inglês. "Phantom Thieves" (o grupo) → "Ladrões-Fantasma"; "phantom thieves"/"a phantom thief" (genérico, minúsculo no EN) → "ladrões-fantasma"/"ladrão-fantasma"; no início de frase, "Ladrões-fantasma".
-
-
-
+| EN | PT-BR | Nota |
+| :--- | :--- | :--- |
 | Metaverse | Metaverso | |
 | Metaverse Navigator | Navegador do Metaverso | |
 | Palace | Palácio | |
@@ -64,8 +62,6 @@
 | Holy Grail | Santo Graal | |
 | Thieves Guild | Guilda dos Ladrões | |
 | Dark Hour / Tartarus (ref. P3) | Hora Sombria / Tártaro | oficial (P3R) |
-
-
 
 **Regra "cognitive":** o substantivo é "Percepção". O adjetivo **não** vira "perceptivo" (inverte o sentido: "quem percebe"). Traduzir pelo contexto: "cognitive Joker" → "o Joker da percepção de Shido" / "a versão do Joker que existe na percepção dele"; "cognitive beings" → "seres criados pela percepção de alguém".
 
