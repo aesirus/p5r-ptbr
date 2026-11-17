@@ -10,7 +10,7 @@ Projeto independente de tradução e localização de **Persona 5 Royal** (PC) p
 ## Sobre o Projeto
 
 * **Autoria Independente:** Esta tradução é desenvolvida de forma totalmente individual. **Não faço parte de nenhum fansub, grupo de tradução ou equipe comunitária.**
-* **Fidelidade e Padronização:** Os textos são adaptados para manter a naturalidade do português brasileiro, respeitando os limites técnicos de caracteres das caixas de diálogo do jogo e preservando termos originais consagrados da franquia (nomes próprios, Personas, mecânicas específicas e nomenclaturas de interface como PV/PE).
+* **Fidelidade e Padronização:** Os textos são adaptados para manter a naturalidade do português brasileiro, respeitando os limites técnicos de caracteres das caixas de diálogo do jogo e preservando termos originais consagrados da franquia (nomes próprios, Personas, mecânicas específicas e nomenclaturas de interface como PV/PE). O Glossário com os termos usados podem ser encontrados em anexo.
 * **Arquitetura Modular:** O repositório contém exclusivamente os arquivos modificados de texto e interface injetados em tempo de execução, sem redistribuir arquivos binários originais do jogo.
 
 ---
