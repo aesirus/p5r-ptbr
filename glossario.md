@@ -63,7 +63,7 @@
 | Thieves Guild | Guilda dos Ladrões | |
 | Dark Hour / Tartarus (ref. P3) | Hora Sombria / Tártaro | oficial (P3R) |
 
-**Regra "cognitive":** o substantivo é "Percepção". O adjetivo **não** vira "perceptivo" (inverte o sentido: "quem percebe"). Traduzir pelo contexto: "cognitive Joker" → "o Joker da percepção de Shido" / "a versão do Joker que existe na percepção dele"; "cognitive beings" → "seres criados pela percepção de alguém".
+**Regra "cognitive":** o substantivo é "Percepção". Na tradução, o adjetivo não vira "perceptivo" (inverte o sentido: "quem percebe"). É traduzido pelo contexto: "cognitive Joker" → "o Joker da percepção de Shido" / "a versão do Joker que existe na percepção dele"; "cognitive beings" → "seres criados pela percepção de alguém".
 
 ## 
 
