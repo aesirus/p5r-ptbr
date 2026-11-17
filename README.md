@@ -18,7 +18,7 @@ Projeto independente de tradução e localização de **Persona 5 Royal** (PC) p
 ## Requisitos e Instalação
 
 ### Pré-requisitos
-1. Cópia original de **Persona 5 Royal** para PC (Steam / Xbox App).
+1. Cópia original de **Persona 5 Royal** para PC (Steam).
 2. **[Reloaded-II](https://github.com/Reloaded-Project/Reloaded-II)** instalado e configurado com o executável do jogo.
 3. Dependência **[Persona 5 Royal Essentials](https://github.com/AnimatedSwine37/Persona-5-Royal-Essentials)** (e seus respectivos sub-módulos, como o *File Emulation Framework*) instalada e ativada no Reloaded-II.
 
@@ -38,8 +38,6 @@ Ao baixar ou utilizar os arquivos deste repositório, você concorda com as segu
 * **Proibição de Reupload:** **Não autorizo** o compartilhamento, espelhamento ou hospedagem destes arquivos em nenhum outro meio ou plataforma — incluindo, mas não se limitando a: GameBanana, Nexus Mods, servidores do Discord, grupos de Telegram, Google Drive, MediaFire ou links de terceiros.
 * **Proibição de Modpacks e Derivados:** Não é permitida a inclusão desta tradução em pacotes de mods (*modpacks*), instaladores automatizados de terceiros ou conversões para outras plataformas (como Nintendo Switch ou PlayStation) sem autorização expressa.
 * **Uso Estritamente Não Comercial:** É terminantemente proibida qualquer forma de monetização sobre este projeto, incluindo vendas, *paywalls* (Patreon, Apoia.se, etc.) ou links protegidos por encurtadores com anúncios.
-
-Para compartilhar a tradução com outras pessoas, envie **apenas o link direto para este repositório no GitHub**.
 
 ---
 
